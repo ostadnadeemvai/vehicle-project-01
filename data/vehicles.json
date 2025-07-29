@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Toyota",
+        "type": "Car",
+        "price": "10000",
+        "image": "https:\/\/www.newboldtoyota.com\/blogs\/5464\/wp-content\/uploads\/2024\/04\/gr-supra.png"
+    },
+    {
+        "name": "Kawasaki H2R",
+        "type": "Bike",
+        "price": "6000000",
+        "image": "https:\/\/preview.redd.it\/disappointing-kawasaki-h2r-test-ride-v0-kraopil6162f1.png?width=640&crop=smart&auto=webp&s=6c7871586a8a1375f2974f734c3f5622c57e22c8"
+    },
+    {
+        "name": "CBR Fireblade",
+        "type": "Bike",
+        "price": "500000",
+        "image": "https:\/\/imgd.aeplcdn.com\/664x374\/n\/cw\/ec\/23190\/cbr1000rr-right-front-three-quarter.jpeg?isig=0&q=80"
+    },
+    {
+        "name": "BMW i8",
+        "type": "Car",
+        "price": "9000000",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2018-bmw-i8-roadster-120-1524840798.jpg?crop=0.832xw:0.775xh;0.168xw,0.160xh&resize=1200:*"
+    }
+]
